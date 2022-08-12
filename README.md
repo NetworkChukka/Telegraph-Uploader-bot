@@ -28,7 +28,7 @@
 - Upload images to telegraph
 - Upload videos to telegraph
 - Upload animations to telegraph
-- Very fast bot
+- Very fast bot 
 - 24/7 works
   
 ## Deployment Methods
